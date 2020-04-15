@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+  }
+table,td,th,.link-sec{
+    border: 1px solid black;
+  }
+
+.link-sec {
+   width: 6%;
+}
+
+iframe{
+    width: 500px;
+    height: 350px;
+    border: 0 ;
+}
